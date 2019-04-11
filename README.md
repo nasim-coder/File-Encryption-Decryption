@@ -2,13 +2,13 @@
 A Complete Web Project with folowing Details :
 
 TECHNOLOGY USED :
-   Java Core API's
-   Servlet
-   JSP
-   Hibernate
-   JavaScript
-   HTML5 
-   CSS3
+   Java Core API's,
+   Servlet,
+   JSP,
+   Hibernate,
+   JavaScript,
+   HTML5, 
+   CSS3,
 
 
 
