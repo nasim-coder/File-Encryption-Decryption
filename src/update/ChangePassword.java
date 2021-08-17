@@ -22,7 +22,7 @@ public class ChangePassword extends HttpServlet {
 		String email = request.getParameter("email").toString();
 		Userdao dao = new Userdao();
 		int i = dao.UpdatePassword(password, email);
-		System.out.println("returned value is="+i);
+		
 		if(i>0)
 		  {
 			request.setAttribute("message", "Your password has been updated succesfully");
